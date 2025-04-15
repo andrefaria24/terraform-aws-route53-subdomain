@@ -19,7 +19,7 @@ variable "waypoint_application" {
 
 variable "domain" {
   description = "The top level domain name used for redirects."
-  default     = "hathatgames.com"
+  default     = "andrecfaria.com"
 }
 
 variable "aws_region" {
